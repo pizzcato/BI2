@@ -1,4 +1,6 @@
-* [添加geoserver图层](zh-cn/add_geoserver_layers.md)
+* [组件列表](zh-cn/BImain/summary.md)
+
+* [示例1:添加geoserver图层](zh-cn/add_geoserver_layers.md)
     * [引用图层](zh-cn/add_geoserver_layers-0.md "添加geoserver图层")  
     * [地图组件](zh-cn/add_geoserver_layers-1.md "添加geoserver图层")  
     * [添加图层](zh-cn/add_geoserver_layers-2.md "添加geoserver图层")  
